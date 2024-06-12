@@ -17,7 +17,7 @@ La aplicación esta basada en el uso de una interfaz grafica codificada con Java
 ![image](https://github.com/Yadira-Quinde/Tareas4-Programacion/assets/168947646/b130b27f-a222-41f2-959b-53c29297928c)
 
 - Salir: Cierra la aplicación desarrollada.
-2. Editar:
+2. Editar
   - Cortar: Corta el texto marcado y lo coloca en portapapeles.
   - Copiar: Copia el texto en portapapeles.
   - Pegar: Pega el texto que esta en portapapeles al área de texto.
